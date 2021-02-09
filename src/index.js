@@ -109,7 +109,6 @@ buildCards = (response) =>{
             page.push(
                 `<div class="person">
                     <div class="color">
-                        <!-- probably would be a this.color thing for this items class? -->
                     </div>
                     <div class="idBadge"><i class="fa fa-bullhorn" aria-hidden="true"></i></div>
                     <div class="deets">
@@ -124,7 +123,6 @@ buildCards = (response) =>{
             page.push(
                 `<div class="person">
                     <div class="color">
-                        <!-- probably would be a this.color thing for this items class? -->
                     </div>
                     <div class="idBadge"><i class="fa fa-coffee" aria-hidden="true"></i></div>
                     <div class="deets">
@@ -139,7 +137,6 @@ buildCards = (response) =>{
             page.push(
                 `<div class="person">
                     <div class="color">
-                        <!-- probably would be a this.color thing for this items class? -->
                     </div>
                     <div class="idBadge"><i class="fa fa-book" aria-hidden="true"></i></div>
                     <div class="deets">
