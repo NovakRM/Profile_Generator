@@ -2,9 +2,9 @@
 
   ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Walkthrough](#walkthrough)
 
   ## Description
    Command line-based application that dynamically generates an HTML page containing members of a project team.
@@ -16,8 +16,7 @@
 
   ## Questions
   * [GitHub Profile](http://github.com/Osteophagy)
-  * Email address: 
 
- <a name="walkthrough"><h3>Walkthrough:</h3></a> 
+  ## Walkthrough
 
   ![walkthrough](./Assets/Demonstration.gif)
