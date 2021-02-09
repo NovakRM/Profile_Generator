@@ -12,14 +12,9 @@
    Command line-based application that dynamically generates an HTML page containing members of a project team.
   ## Installation
    Dependant on Node/NPM and Inquirer.
-  ## Usage
-   Go for it
-  ## Contributing
-   
+
   ## Tests
    Four test suites. Call with jest. 
-  ## License
-  undefined
 
   ## Questions
   * [GitHub Profile](http://github.com/Osteophagy)
